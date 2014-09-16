@@ -1,0 +1,9 @@
+Jonathas Junio Rodrigues da Silva
+Thiago Cabral
+Tiago Roberti Sampaio
+
+arq.c -> FRONTEND(LEX<->SINTATICO) -> codigo intermediario -> BACKEND(LEX->SINTATICO) -> arq.asm
+
+**ou seja
+
+arq.c -> LEX<->SINTATICO -> codigo intermediario -> LEX->SINTATICO -> arq.asm

@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1363715641 source:d:\ufmt\compiladores\compilador em c - pascal to assembly 8088\pasquack\sintatico.c
+	"lexico.c"
+
+1363625897 source:g:\pasquack\sintatico.c
+	"lexico.c"
+
+1363625744 g:\pasquack\lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1363713034 d:\ufmt\compiladores\compilador em c - pascal to assembly 8088\pasquack\lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1364175327 source:d:\documentos\Área de trabalho\ufmt 2012\compiladores\trabalhos\compilador pascal-assembly\pasquack final\sintatico.c
+	"lexico.c"
+	"gerador.h"
+
+1363711543 d:\documentos\Área de trabalho\ufmt 2012\compiladores\trabalhos\compilador pascal-assembly\pasquack final\lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1364170364 d:\documentos\Área de trabalho\ufmt 2012\compiladores\trabalhos\compilador pascal-assembly\pasquack final\gerador.h
+
+1364322997 source:e:\compilador pascal-assembly\pasquack final\sintatico.c
+	"lexico.h"
+	"gerador.h"
+
+1364321940 e:\compilador pascal-assembly\pasquack final\lexico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1364322657 e:\compilador pascal-assembly\pasquack final\gerador.h
+
+1364344201 source:i:\compilador pascal-assembly\pasquack final\sintatico.c
+	"lexico.h"
+	"gerador.h"
+
+1364321940 i:\compilador pascal-assembly\pasquack final\lexico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1364322657 i:\compilador pascal-assembly\pasquack final\gerador.h
+
+1364350281 source:c:\users\thiagoo.cabral\documents\ccomp_-_ufmt\compiladores\pasquack final\sintatico.c
+	"lexico.h"
+	"gerador.h"
+
+1364351041 c:\users\thiagoo.cabral\documents\ccomp_-_ufmt\compiladores\pasquack final\lexico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1364322657 c:\users\thiagoo.cabral\documents\ccomp_-_ufmt\compiladores\pasquack final\gerador.h
+
+1364849545 source:d:\ufmt\compiladores\compilador em c - pascal to assembly 8088\pasquack_v1.0\pasquack final\sintatico.c
+	"lexico.h"
+	"gerador.h"
+
+1364351041 d:\ufmt\compiladores\compilador em c - pascal to assembly 8088\pasquack_v1.0\pasquack final\lexico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1364322657 d:\ufmt\compiladores\compilador em c - pascal to assembly 8088\pasquack_v1.0\pasquack final\gerador.h
+
