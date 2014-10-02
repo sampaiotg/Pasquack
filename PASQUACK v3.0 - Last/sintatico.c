@@ -2,8 +2,7 @@
 #include "gerador.h"
 
 ///Tiago Roberti Sampaio
-///Thiago Oliveira Cabral
-///Jonatas Rodrigues
+///www.trsampaio.com
 
 /*** Estrutura onde ficam as variaveis e seus tipos ***/
 typedef struct var {
